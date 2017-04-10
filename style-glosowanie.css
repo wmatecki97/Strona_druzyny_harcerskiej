@@ -1,0 +1,180 @@
+body
+{
+	background-color: #303030;
+	color: white;
+	font-size: 20px;
+	margin: 0 !important;
+	min-height: 100vh;
+}
+
+
+#header
+{
+	font-family: 'Russo One', sans-serif;
+	font-size: 60px;
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	padding: 10px;
+	margin-top:20px;
+}
+#menu
+{
+	text-align: center;
+	background-color: #252525;
+	height:50px;	
+	min-width:1000px;
+}
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #272727;
+	width:1000px;
+	height: auto;
+	text-align:center;
+	min-height: 70vh;
+}
+#container:after { 
+    content: " "; 
+    display: block;
+    clear: both;
+} 
+#pole
+{
+	margin-left: auto;
+	margin-right: auto;
+	width:940px;
+	font-size: 30px;
+	color: #fcfcfc;
+	padding: 30px;
+	text-align:center;
+	font-family: 'Barrio', cursive;
+	height: auto;
+}
+#pole:after { 
+    content: " "; 
+    display: block;
+    clear: both;
+} 
+
+.wersja
+{
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 800px;
+	text-align:center;
+	background-color: gray;
+	margin-top:50px;
+	margin-bottom:50px;
+
+}
+.wersja:after { 
+    content: " "; 
+    display: block;
+    clear: both;
+} 
+
+.c1
+{
+	display:block; 
+	float: left;
+	margin-right:100px;
+	margin-top:9px;
+	width: 600px;
+	height:auto;
+}
+.c2
+{
+	display:block; 
+	float: left;
+	margin-top:0px;
+	width: 100px;
+	height: auto;
+}
+.c3
+{
+	display:block; 
+	float: left;
+	margin-right:50px;
+	margin-top:4px;
+	width: 600px;
+	height:auto;
+}
+.c4
+{
+	display:block; 
+	float: left;
+	margin-top:4px;
+	width: 150px;
+	height: auto;
+}
+#formularz
+{
+	margin-top:0px;
+
+}
+
+
+#footer
+{
+	padding-top:7px;
+	text-align: center;
+	background-color: #252525;
+	height:25px;
+	color: black;
+	font-size: 16px;
+	font-family: initial;
+	
+}
+ol
+{
+	margin-top: 15px;
+	padding: 0px;
+	list-style-type: none;
+	font size: 18px;
+	heigth: 50px;
+	display:inline-block;	
+}
+ol a
+{
+	display: block;
+}
+
+ol > li
+{
+	padding: 0px;
+	float: left;
+	width: 120px;
+	heigth: 50px;
+	border-right: 1px solid black;
+	text-align: center;
+}
+ol > li:first-child
+{
+	border-left: 1px solid black;
+}
+ol>li:hover
+{
+	background-color: #323232;	
+}
+
+a:link
+{
+	color: #cc3333;
+	text-decoration:none;
+}
+a:link:hover
+{
+	color: #ee4444;
+}
+a:visited
+{
+	color: #cc3333;
+	text-decoration:none;
+}

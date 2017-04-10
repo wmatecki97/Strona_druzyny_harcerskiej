@@ -1,0 +1,5 @@
+<?php
+
+$menu = '	<div id="header">					<a href="admin.php"><span style="color: #c34f4f;">B</span><span style="color: white;">ER</span><span style="color: #c34f4f;">S</span><span style="color: white;">ER</span><span style="color: #c34f4f;">K</span><span style="color: white;">ER</span></a>					<div style="clear:both;"></div>				</div>				<div id="menu">				<ol>					<li><a href="zarzadzanie.php">GŁÓWNA</a></li>					<li><a href="top10.php">TOP10</a></li>					<li><a href="semestr.php">SEMESTR</a></li>					<li><a href="punkty.php">PUNKTY</a></li>					<li><a href="glosowanie.php"> GŁOSOWANIE </a></li>					<li><a href="proby.php">PRÓBY</a></li>										<li><a href="specjalne.php">SPECJALNE</a></li>					<li><a href="kontakt.php">KONTAKT</a></li>				</ol>				</div>';				$footer = '<div id="footer">				Strona Poznańskiej Drużyny Starszoharcerskiej Berserk	</div>';
+
+?>
