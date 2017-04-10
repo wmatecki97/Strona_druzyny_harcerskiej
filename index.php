@@ -15,8 +15,8 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Strona Logowania</title>
-	<meta name="description" content="Opis strony">
-	<meta names="keywords" content="slowa, kluczowe"/>
+	<meta name="description" content="Strona drużyny harcerskiej Berserk">
+	<meta names="keywords" content="berserk"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=ede,chrome=1" />
 	<link href="style-index.css" rel="stylesheet" type="text/css"/>
 	<link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
